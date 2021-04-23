@@ -1,0 +1,24 @@
+sls/domain/Home.java
+ sls.domain.Home
+sls/domain/time/TimeService.java
+ sls.domain.time.TimeService
+sls/domain/schedule/PairHourOnSchedule.java
+ sls.domain.schedule.PairHourOnSchedule
+sls/domain/schedule/NormalSchedule.java
+ sls.domain.schedule.NormalSchedule
+sls/domain/RequestToSkipActionsUntilTomorrow.java
+ sls.domain.RequestToSkipActionsUntilTomorrow
+sls/domain/LightSchedule.java
+ sls.domain.LightSchedule
+sls/domain/LightLocations.java
+ sls.domain.LightLocations
+sls/domain/RequestToSkipSchedule.java
+ sls.domain.RequestToSkipSchedule
+sls/domain/time/FixedTimeService.java
+ sls.domain.time.FixedTimeService
+sls/domain/Light.java
+ sls.domain.Light
+sls/domain/User.java
+ sls.domain.User
+sls/domain/time/ManuallyUpdatedTimeService.java
+ sls.domain.time.ManuallyUpdatedTimeService
